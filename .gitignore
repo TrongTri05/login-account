@@ -1,0 +1,15 @@
+# Ignore IDE files
+.vscode/
+*.iml
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore temp files
+*.log
+*.tmp
+*.bak
